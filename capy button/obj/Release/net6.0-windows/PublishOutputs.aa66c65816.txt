@@ -1,0 +1,7 @@
+C:\Users\jsche\Downloads\data\capy flip.jpg
+C:\Users\jsche\Downloads\data\capybara ok i pull up.wav
+C:\Users\jsche\Downloads\capy button.exe
+C:\Users\jsche\Downloads\capy button.dll
+C:\Users\jsche\Downloads\capy button.deps.json
+C:\Users\jsche\Downloads\capy button.runtimeconfig.json
+C:\Users\jsche\Downloads\capy button.pdb

@@ -1,0 +1,24 @@
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\bin\Release\net6.0-windows\capy button.exe
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\bin\Release\net6.0-windows\data\capy flip.jpg
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\bin\Release\net6.0-windows\data\capybara ok i pull up.wav
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\bin\Release\net6.0-windows\capy button.deps.json
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\bin\Release\net6.0-windows\capy button.runtimeconfig.json
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\bin\Release\net6.0-windows\capy button.dll
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\bin\Release\net6.0-windows\capy button.pdb
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button.csproj.AssemblyReference.cache
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\App.g.cs
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button_Content.g.cs
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button_MarkupCompile.cache
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button_MarkupCompile.lref
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button.g.resources
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button.AssemblyInfoInputs.cache
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button.AssemblyInfo.cs
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button.csproj.CoreCompileInputs.cache
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button.dll
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\refint\capy button.dll
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button.pdb
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\capy button.genruntimeconfig.cache
+C:\Users\jsche\OneDrive\Documents\Programming\capy button\capy button\obj\Release\net6.0-windows\ref\capy button.dll
